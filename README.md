@@ -1,2 +1,2 @@
-# Face-recognition
-This face recognition is done using python it can be used as attendance in in various companies in this project we have to upload the image of the person such that will get the accurate results
+# digital-clock
+This digital clock is done using HTML, CSS, and JAVASCRIPT and is basically used to give real-time on the web browser that is a simple project which I created based on my own interest
